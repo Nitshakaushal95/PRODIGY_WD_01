@@ -68,15 +68,6 @@ HTML is used to structure the menu, CSS to style it, and JavaScript to add inter
 
 ---
 
-📸 Screenshot
-
-> (You can add a screenshot of your landing page here)
-
-
-
-
----
-
 📚 Learnings
 
 Improved understanding of responsive layouts
